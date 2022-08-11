@@ -1,0 +1,2 @@
+#Ajout de fichiers à ignorer ici ficher avec sensitve data 
+*.env 
